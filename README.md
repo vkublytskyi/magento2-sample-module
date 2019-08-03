@@ -2,3 +2,5 @@
 Skeleton of Magento 2 module (no conflict change)
 
 Test PR full cycle
+
+[change from fork]
