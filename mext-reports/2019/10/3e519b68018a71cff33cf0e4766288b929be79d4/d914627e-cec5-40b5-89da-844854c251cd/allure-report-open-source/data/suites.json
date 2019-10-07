@@ -1,0 +1,44 @@
+{
+  "children": [
+    {
+      "name": "Magento\\Test\\Integrity\\ComposerTest",
+      "children": [
+        {
+          "name": "testValidComposerJson",
+          "uid": "9a36a7595c8f1293",
+          "parentUid": "e9ab589dea8725a075ecfb3ca68c4416",
+          "status": "failed",
+          "time": {
+            "start": 1570484562673,
+            "stop": 1570484586119,
+            "duration": 23446
+          },
+          "flaky": false,
+          "parameters": []
+        }
+      ],
+      "uid": "e9ab589dea8725a075ecfb3ca68c4416"
+    },
+    {
+      "name": "Magento\\Test\\Integrity\\DependencyTest",
+      "children": [
+        {
+          "name": "testUndeclared",
+          "uid": "a8d97177976ebafe",
+          "parentUid": "0916220199cc31017f30574cfe4502b8",
+          "status": "broken",
+          "time": {
+            "start": 1570484586740,
+            "stop": 1570484596359,
+            "duration": 9619
+          },
+          "flaky": false,
+          "parameters": []
+        }
+      ],
+      "uid": "0916220199cc31017f30574cfe4502b8"
+    }
+  ],
+  "uid": "98d3104e051c652961429bf95fa0b5d6",
+  "name": "suites"
+}
